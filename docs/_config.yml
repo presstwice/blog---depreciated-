@@ -28,7 +28,7 @@ twitter_username: dougatlast
 github_username:  presstwice
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: Minima
 plugins:
   - jekyll-feed
 
